@@ -1,6 +1,7 @@
 # Razer Hackathon 2020
+Sandboxed Trading & Loans environment (Gamified Razer Solution)
 
-### Overview
+### Stocks and Loans Pages
 <p align="center">
   <img src="https://imgur.com/snoYE0v.png" width="300" title="Razer Hackathon">
   <img src="https://imgur.com/EzLSIiF.png" width="300" title="Razer Hackathon">
