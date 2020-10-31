@@ -27,3 +27,4 @@ ReactJS App - Sandboxed Trading & Loans environment
 * ```npm run build``` (builds in dist folder)
 * ```npm run serve``` (serves dist folder at localhost: 8080)
 
+# Razer-Hackathon-2020
