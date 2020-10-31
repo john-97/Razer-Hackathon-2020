@@ -1,5 +1,5 @@
 # Razer Hackathon 2020
-Sandboxed Trading & Loans environment (Gamified Razer Solution)
+ReactJS App - Sandboxed Trading & Loans environment
 
 ### Stocks and Loans Pages
 <p align="center">
