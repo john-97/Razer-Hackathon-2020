@@ -1,5 +1,7 @@
 # Razer Hackathon 2020
 ReactJS App - Sandboxed Trading & Loans environment
+* Top 24 (Semi-finalist) in Hackathon of over 250 teams
+* Developed banking frontend with ReactJS (redux-thunk, lint, axios)
 
 ### Stocks and Loans Pages
 <p align="center">
